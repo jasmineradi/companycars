@@ -35,6 +35,17 @@ Technical Notes
 
 • Tested and verified using WAMP64, PHP 8.2, and MySQL 8 on a local environment.
 
+Screenshots
+---------------
+**Main Sorting HTML**
+![HTML Sorting Screen](Sortinghtml.png)
+
+**Sort By Ascending**
+![Sorting by Ascending Order](asc_example.png)
+
+**Sort with PHP**
+![Sorting with PHP](sortingphp.png)
+
 How to Use
 ----------
 1. Import the included `vehicle_fleet.sql` file into phpMyAdmin.
