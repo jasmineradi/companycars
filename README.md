@@ -37,13 +37,13 @@ Technical Notes
 
 Screenshots
 ---------------
-**Main Sorting HTML**
+**Form Sorting**
 ![HTML Sorting Screen](Sortinghtml.png)
 
 **Sort By Ascending**
 ![Sorting by Ascending Order](asc_example.png)
 
-**Sort with PHP**
+**Default Table With No Sort**
 ![Sorting with PHP](sortingphp.png)
 
 How to Use
