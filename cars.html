@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Company Cars</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>View our Company Cars</h1>
+    <p>Select how you want to view the company cars in our database:</p>
+  </header>
+
+  <main>
+    <form action="cars.php" method="get">
+      <label for="sort_by">Sort by:</label>
+      <select id="sort_by" name="sort_by">
+        <option value="license">License</option>
+        <option value="make">Make</option>
+        <option value="model">Model</option>
+        <option value="model_year">Year</option>
+        <option value="mileage">Mileage</option>
+      </select>
+
+      <label for="order">Order:</label>
+      <select id="order" name="order">
+        <option value="ASC">Ascending</option>
+        <option value="DESC">Descending</option>
+      </select>
+
+      <button type="submit">View Cars</button>
+    </form>
+
+    <span><a href="cars.php">View our Company Car List</a></span>
+    
+  </main>
+
+</body>
+</html>
