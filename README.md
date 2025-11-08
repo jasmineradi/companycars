@@ -1,8 +1,6 @@
 -------------------------------------------------------------
 Final Project — Unit 9: Web Database I
 Author: Jasmine Radi
-Instructor: [Instructor’s Name]
-Date: [Your Submission Date]
 -------------------------------------------------------------
 
 Project Overview
